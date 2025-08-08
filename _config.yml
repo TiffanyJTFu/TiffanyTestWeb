@@ -102,7 +102,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : # 5 (default)
+    num_Volunter            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
@@ -217,13 +217,13 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  Academic Research:
     output: true
     permalink: /:collection/:path/
-  publications:
+  School Life:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Social practice:
     output: true
     permalink: /:collection/:path/
   danceperformance:
@@ -233,10 +233,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+  # _Volunter
   - scope:
       path: ""
-      type: posts
+      type: Volunter
     values:
       layout: single
       author_profile: true
@@ -251,28 +251,28 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _Academic Research
   - scope:
       path: ""
-      type: teaching
+      type: Academic Research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _School Life
   - scope:
       path: ""
-      type: publications
+      type: School Life
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _Social practice
   - scope:
       path: ""
-      type: portfolio
+      type: Social practice
     values:
       layout: single
       author_profile: true
@@ -296,7 +296,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
+# paginate: 5 # amount of Volunter to show
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

@@ -248,12 +248,12 @@ def parse_skills(skills_text):
     
     return skills_entries
 
-def parse_publications(pub_dir):
-    """Parse publications from the _publications directory."""
-    publications = []
+def parse_School Life(pub_dir):
+    """Parse School Life from the _School Life directory."""
+    School Life = []
     
     if not os.path.exists(pub_dir):
-        return publications
+        return School Life
     
     for pub_file in sorted(glob.glob(os.path.join(pub_dir, "*.md"))):
         with open(pub_file, 'r', encoding='utf-8') as file:
@@ -273,9 +273,9 @@ def parse_publications(pub_dir):
                 "summary": front_matter.get('excerpt', '')
             }
             
-            publications.append(pub_entry)
+            School Life.append(pub_entry)
     
-    return publications
+    return School Life
 
 def parse_danceperformance(danceperformance_dir):
     """Parse danceperformance from the _danceperformance directory."""
@@ -306,15 +306,15 @@ def parse_danceperformance(danceperformance_dir):
     
     return danceperformance
 
-def parse_teaching(teaching_dir):
-    """Parse teaching from the _teaching directory."""
-    teaching = []
+def parse_Academic Research(Academic Research_dir):
+    """Parse Academic Research from the _Academic Research directory."""
+    Academic Research = []
     
-    if not os.path.exists(teaching_dir):
-        return teaching
+    if not os.path.exists(Academic Research_dir):
+        return Academic Research
     
-    for teaching_file in sorted(glob.glob(os.path.join(teaching_dir, "*.md"))):
-        with open(teaching_file, 'r', encoding='utf-8') as file:
+    for Academic Research_file in sorted(glob.glob(os.path.join(Academic Research_dir, "*.md"))):
+        with open(Academic Research_file, 'r', encoding='utf-8') as file:
             content = file.read()
         
         # Extract front matter
@@ -322,8 +322,8 @@ def parse_teaching(teaching_dir):
         if front_matter_match:
             front_matter = yaml.safe_load(front_matter_match.group(1))
             
-            # Extract teaching details
-            teaching_entry = {
+            # Extract Academic Research details
+            Academic Research_entry = {
                 "course": front_matter.get('title', ''),
                 "institution": front_matter.get('venue', ''),
                 "date": front_matter.get('date', ''),
@@ -331,19 +331,19 @@ def parse_teaching(teaching_dir):
                 "description": front_matter.get('excerpt', '')
             }
             
-            teaching.append(teaching_entry)
+            Academic Research.append(Academic Research_entry)
     
-    return teaching
+    return Academic Research
 
-def parse_portfolio(portfolio_dir):
-    """Parse portfolio items from the _portfolio directory."""
-    portfolio = []
+def parse_Social practice(Social practice_dir):
+    """Parse Social practice items from the _Social practice directory."""
+    Social practice = []
     
-    if not os.path.exists(portfolio_dir):
-        return portfolio
+    if not os.path.exists(Social practice_dir):
+        return Social practice
     
-    for portfolio_file in sorted(glob.glob(os.path.join(portfolio_dir, "*.md"))):
-        with open(portfolio_file, 'r', encoding='utf-8') as file:
+    for Social practice_file in sorted(glob.glob(os.path.join(Social practice_dir, "*.md"))):
+        with open(Social practice_file, 'r', encoding='utf-8') as file:
             content = file.read()
         
         # Extract front matter
@@ -351,18 +351,18 @@ def parse_portfolio(portfolio_dir):
         if front_matter_match:
             front_matter = yaml.safe_load(front_matter_match.group(1))
             
-            # Extract portfolio details
-            portfolio_entry = {
+            # Extract Social practice details
+            Social practice_entry = {
                 "name": front_matter.get('title', ''),
-                "category": front_matter.get('collection', 'portfolio'),
+                "category": front_matter.get('collection', 'Social practice'),
                 "date": front_matter.get('date', ''),
                 "url": front_matter.get('permalink', ''),
                 "description": front_matter.get('excerpt', '')
             }
             
-            portfolio.append(portfolio_entry)
+            Social practice.append(Social practice_entry)
     
-    return portfolio
+    return Social practice
 
 def create_cv_json(md_file, config_file, repo_root, output_file):
     """Create a JSON CV from markdown and other repository data."""
@@ -386,17 +386,17 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
         "references": []
     }
     
-    # Add publications
-    cv_json["publications"] = parse_publications(os.path.join(repo_root, "_publications"))
+    # Add School Life
+    cv_json["School Life"] = parse_School Life(os.path.join(repo_root, "_School Life"))
     
     # Add danceperformance
     cv_json["presentations"] = parse_danceperformance(os.path.join(repo_root, "_danceperformance"))
     
-    # Add teaching
-    cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
+    # Add Academic Research
+    cv_json["Academic Research"] = parse_Academic Research(os.path.join(repo_root, "_Academic Research"))
     
-    # Add portfolio
-    cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))
+    # Add Social practice
+    cv_json["Social practice"] = parse_Social practice(os.path.join(repo_root, "_Social practice"))
     
     # Extract languages and interests from config if available
     if 'languages' in config:

@@ -41,9 +41,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+School Life
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.School Life reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -53,9 +53,9 @@ danceperformance
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Academic Research
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.Academic Research reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

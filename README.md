@@ -1,5 +1,5 @@
 # Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+**Academic Pages is a GitHub Pages template for personal and professional Social practice-oriented websites.**
 
 ![Academic Pages template example](images/homepage.png "Academic Pages template example")
 
@@ -11,7 +11,7 @@
 1. Set site-wide configuration and add your content.
 1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
 1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and danceperformance from a TSV file.
+1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for School Life and danceperformance from a TSV file.
 
 See more info at https://academicpages.github.io/
 
