@@ -277,14 +277,14 @@ def parse_publications(pub_dir):
     
     return publications
 
-def parse_talks(talks_dir):
-    """Parse talks from the _talks directory."""
-    talks = []
+def parse_danceperformance(danceperformance_dir):
+    """Parse danceperformance from the _danceperformance directory."""
+    danceperformance = []
     
-    if not os.path.exists(talks_dir):
-        return talks
+    if not os.path.exists(danceperformance_dir):
+        return danceperformance
     
-    for talk_file in sorted(glob.glob(os.path.join(talks_dir, "*.md"))):
+    for talk_file in sorted(glob.glob(os.path.join(danceperformance_dir, "*.md"))):
         with open(talk_file, 'r', encoding='utf-8') as file:
             content = file.read()
         
@@ -302,9 +302,9 @@ def parse_talks(talks_dir):
                 "description": front_matter.get('excerpt', '')
             }
             
-            talks.append(talk_entry)
+            danceperformance.append(talk_entry)
     
-    return talks
+    return danceperformance
 
 def parse_teaching(teaching_dir):
     """Parse teaching from the _teaching directory."""
@@ -389,8 +389,8 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     # Add publications
     cv_json["publications"] = parse_publications(os.path.join(repo_root, "_publications"))
     
-    # Add talks
-    cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
+    # Add danceperformance
+    cv_json["presentations"] = parse_danceperformance(os.path.join(repo_root, "_danceperformance"))
     
     # Add teaching
     cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
