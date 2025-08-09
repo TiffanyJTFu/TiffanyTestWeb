@@ -1,7 +1,7 @@
 # Leaflet cluster map of talk locations
 #
-# Run this from the _danceperformance/ directory, which contains .md files of all your
-# danceperformance. This scrapes the location YAML field from each .md file, geolocates it
+# Run this from the _dance/ directory, which contains .md files of all your
+# dance. This scrapes the location YAML field from each .md file, geolocates it
 # with geopy/Nominatim, and uses the getorg library to output data, HTML, and
 # Javascript for a standalone cluster map. This is functionally the same as the
 # #talkmap Jupyter notebook.
@@ -15,7 +15,7 @@ from geopy.exc import GeocoderTimedOut
 TIMEOUT = 5
 
 # Collect the Markdown files
-g = glob.glob("_danceperformance/*.md")
+g = glob.glob("_dance/*.md")
 
 # Prepare to geolocate
 geocoder = Nominatim(user_agent="academicpages.github.io")

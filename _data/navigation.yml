@@ -9,25 +9,25 @@
 
 main:
   - title: "School Life"
-    url: /School Life/
+    url: /publications/
 
-  - title: "danceperformance"
-    url: /danceperformance/    
+  - title: "Dance Performances"
+    url: /dance/    
 
-  - title: "Academic Research"
-    url: /Academic Research/    
+  - title: "Academic Reserch"
+    url: /teaching/    
     
-  - title: "Social practice"
-    url: /Social practice/
+  - title: "Social Practice"
+    url: /portfolio/
         
-  - title: "Blog Volunter"
+  - title: "Volunteer"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "About Me"
     url: /cv/
     
-  # - title: "CV"
+  # - title: ""
   #   url: /cv-json/
     
-  - title: "Guide"
+  - title: ""
     url: /markdown/

@@ -9,51 +9,51 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Tiffany Fu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tiffany Fu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://tiffanyjtfu.github.io/TiffanyFu #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "TiffanyJTFu/TiffanyFu" #"academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "tiffanyprofile1.JPG"
+  name             : "Tiffany Fu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
+  bio              : "A passionate high school student and dancer"
+  School           : "Unionville High School"
+  Side bar 02      : ""
+  Phone            : ""
+  Side bar 04      : "" 
+  email            : ""
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  About Me         : "About Me"
+  High School Life : "High School Life"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  Dance Competitions and Perormances           : " Dance Competitions and Perormances"
+  Academic Research and Social Practices        : "Academic Research and Social Practices"
+  Volunteeer Activities          : "Volunteeer Activities"
   researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : # High School Life - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : ""
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : ""
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -79,7 +79,7 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
+High School Life:
   books:
     title: 'Books'
   manuscripts:
@@ -93,7 +93,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on danceperformance page
+talkmap_link             : false      #change to true to add link to talkmap on dance page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -102,7 +102,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_Volunter            : # 5 (default)
+    num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
@@ -217,26 +217,26 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  Academic Research:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  School Life:
+  publications:
     output: true
     permalink: /:collection/:path/
-  Social practice:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  danceperformance:
+  dance:
     output: true
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _Volunter
+  # _posts
   - scope:
       path: ""
-      type: Volunter
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -251,37 +251,37 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Academic Research
+  # _teaching
   - scope:
       path: ""
-      type: Academic Research
+      type: teaching
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _School Life
+  # _publications
   - scope:
       path: ""
-      type: School Life
+      type: publications
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _Social practice
+  # _portfolio
   - scope:
       path: ""
-      type: Social practice
+      type: portfolio
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _danceperformance
+  # _dance
   - scope:
       path: ""
-      type: danceperformance
+      type: dance
     values:
       layout: talk
       author_profile: true
@@ -296,7 +296,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of Volunter to show
+# paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

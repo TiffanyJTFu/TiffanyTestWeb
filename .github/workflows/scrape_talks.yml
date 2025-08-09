@@ -3,8 +3,8 @@ name: Scrape Talk Locations
 on:
   push:
     paths:
-      - 'danceperformance/**'
-      - '_danceperformance/**'
+      - 'dance/**'
+      - '_dance/**'
       - 'talkmap.ipynb'
 
 jobs:
