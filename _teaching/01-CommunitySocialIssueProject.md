@@ -1,8 +1,8 @@
 ---
-title: "Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024"
+title: "Brown University Pre-college leadership program - Social change and leadership - Community Social Issue Project 2024"
 collection: teaching
 type: ""
-permalink: /teaching/SocialScienceResearchProject-1
+permalink: /teaching/CommunitySocialIssueProject
 slidesurl1: 'https://www.tiffu.ca/files/Action plan Presentation.mp4'
 paperurl1: 'https://www.tiffu.ca/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf'
 ---

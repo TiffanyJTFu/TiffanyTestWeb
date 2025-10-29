@@ -2,7 +2,7 @@
 title: "ICELERT – Innovation Prototype Project - Shad York 2025"
 collection: teaching
 type: ""
-permalink: /teaching/InnovationProject
+permalink: /teaching/ICELERTProject
 slidesurl2: 'https://www.tiffu.ca/files/DE 60s VID.mp4'
 paperurl2: 'https://www.tiffu.ca/files/ICELERT - Business Plan.pdf'
 ---
