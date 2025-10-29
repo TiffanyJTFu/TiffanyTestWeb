@@ -11,18 +11,15 @@ main:
   - title: "School Life"
     url: /publications/
 
-  - title: "Dance Performances"
-    url: /dance/    
+  - title: "Dance"
+    url: /talks/    
 
-  - title: "Academic Reserch"
+  - title: "Reserch Projects"
     url: /teaching/    
     
-  - title: "Social Practice"
-    url: /portfolio/
-        
-  - title: "Volunteer"
-    url: /year-archive/
-    
+  - title: "Achievements & Activities"
+    url: /portfolio/        
+   
   - title: "About Me"
     url: /cv/
     
