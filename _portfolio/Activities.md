@@ -1,6 +1,6 @@
 ---
 title: "Activities"
-excerpt: 'Actively engaged in a wide range of extracurriculars, including cultural dance performance, school clubs (Model UN, Mock Trial), community volunteering, innovation competitions, and charity events. Demonstrated leadership, collaboration, and a commitment to social impact.<br/><img src="https://tiffanyjtfu.github.io/TiffanyFu/images/charityevent1.jpg"><img src="https://tiffanyjtfu.github.io/TiffanyFu/images/shad6-1.jpg">'
+excerpt: 'Actively engaged in a wide range of extracurriculars, including cultural dance performance, school clubs (Model UN, Mock Trial), community volunteering, innovation competitions, and charity events. Demonstrated leadership, collaboration, and a commitment to social impact.<br/><img src="https://www.tiffu.ca/images/charityevent1.jpg"><img src="https://www.tiffu.ca/images/shad6-1.jpg">'
 collection: portfolio
 ---
 * **Community Outreach Volunteer – MPP Team 08/2025**

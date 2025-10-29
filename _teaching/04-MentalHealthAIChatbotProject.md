@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/MentalHealthAIChatbotProject
 ---
-![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/ai1.png)
+![SocialScience01](https://www.tiffu.ca/images/ai1.png)
 <br>**Project Topic:** Mental Health AI Chatbot Project
 <br>**Research Mentor**: **Prof. Ganesh Mani (Carnegie Mellon University)**
 <br><br>**Project Background**

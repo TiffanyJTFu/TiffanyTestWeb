@@ -3,7 +3,7 @@ title: "School Life"
 collection: publications
 category: conferences
 permalink: /publications/SchoolLife
-excerpt: 'An academically driven and creatively engaged student with a strong passion for cultural expression, leadership, and community service. Actively involved in dance performance, school clubs (Model UN, Mock Trial), research programs, and innovation challenges. Dedicated to making a positive impact through volunteering, and cross-cultural initiatives.<img src="https://tiffanyjtfu.github.io/TiffanyFu/images/mun.jpg">'
+excerpt: 'An academically driven and creatively engaged student with a strong passion for cultural expression, leadership, and community service. Actively involved in dance performance, school clubs (Model UN, Mock Trial), research programs, and innovation challenges. Dedicated to making a positive impact through volunteering, and cross-cultural initiatives.<img src="https://www.tiffu.ca/images/mun.jpg">'
 ---
 
 Throughout her school life, Tiffany has pursued a well-rounded and purpose-driven path marked by academic curiosity, artistic passion, and meaningful community involvement. She has consistently excelled in her studies while actively participating in enrichment programs such as the Shad Canada Program and the Brown University Pre-College Program, where she completed research and innovation projects in social science and STEM.
@@ -14,4 +14,4 @@ In addition to the arts, Tiffany is actively involved in Model United Nations, M
 
 Tiffany also volunteers her time to local charity events, school fundraisers, and community festivals, combining her creative skills with a strong commitment to social impact. Her academic interests in political science, psychology, economics, and law reflect her passion for understanding the world and making a difference through informed leadership and civic engagement.
 
-![mun](https://tiffanyjtfu.github.io/TiffanyFu/images/mun.jpg)
+![mun](https://www.tiffu.ca/images/mun.jpg)

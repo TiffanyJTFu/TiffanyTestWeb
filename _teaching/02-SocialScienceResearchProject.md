@@ -3,13 +3,13 @@ title: "Social Science Research Project 2024"
 collection: teaching
 type: ""
 permalink: /teaching/SocialScienceResearchProject
-paperurl3: 'https://tiffanyjtfu.github.io/TiffanyFu/files/AMH_PS_0608.pdf'
+paperurl3: 'https://www.tiffu.ca/files/AMH_PS_0608.pdf'
 ---
-![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
+![SocialScience01](https://www.tiffu.ca/images/socialscienceproject1.jpg)
 <br>**Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
 <br>**Research Mentor**: **Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)
 
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/AMH_PS_0608.pdf" target="_blank" rel="noopener noreferrer">Download Report</a>&nbsp;
+<a href="https://www.tiffu.ca/files/AMH_PS_0608.pdf" target="_blank" rel="noopener noreferrer">Download Report</a>&nbsp;
 <br><br>**Project Background**
 <br>In the context of globalization, increasing attention has been paid to the relationship between the educational practices of immigrant families and the physical and mental health of adolescents. Young people from immigrant backgrounds face unique challenges such as cultural conflict, identity issues, and the pressure to adapt to a new environment. These stressors can have significant impacts on their well-being, with reported cases of depression and even suicide. At the same time, immigrant parents also face difficulties in navigating parenting and supporting their children in a new cultural and social context.
 
@@ -43,27 +43,27 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 <br>The project was led by **Dr. Tao Wang**, **Assistant Professor** at the School of Information, **University of Toronto**. Dr. Wang specializes in online communication, knowledge management, and behavioral analysis. His research integrates social psychology with quantitative methods such as natural language processing and machine learning. Passionate about youth development, Dr. Wang has been an active volunteer in several youth organizations and provided mentorship and academic guidance throughout the project.
 
 
-![SocialScience12](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject12.jpg)
+![SocialScience12](https://www.tiffu.ca/images/socialscienceproject12.jpg)
 
-![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
+![SocialScience01](https://www.tiffu.ca/images/socialscienceproject1.jpg)
 
-![SocialScience02](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject2.JPG)
+![SocialScience02](https://www.tiffu.ca/images/socialscienceproject2.JPG)
 
-![SocialScience03](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject3.jpg)
+![SocialScience03](https://www.tiffu.ca/images/socialscienceproject3.jpg)
 
-![SocialScience05](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject6.jpg)
+![SocialScience05](https://www.tiffu.ca/images/socialscienceproject6.jpg)
 
-![SocialScience05](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject5.JPG)
+![SocialScience05](https://www.tiffu.ca/images/socialscienceproject5.JPG)
 
-![SocialScience08](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject8.jpg)
+![SocialScience08](https://www.tiffu.ca/images/socialscienceproject8.jpg)
 
-![SocialScience07](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject7.jpg)
+![SocialScience07](https://www.tiffu.ca/images/socialscienceproject7.jpg)
 
-![SocialScience09](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject9.JPG)
+![SocialScience09](https://www.tiffu.ca/images/socialscienceproject9.JPG)
 
-![SocialScience10](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject10.JPG)
+![SocialScience10](https://www.tiffu.ca/images/socialscienceproject10.JPG)
 
-![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
+![SocialScience11](https://www.tiffu.ca/images/socialscienceproject11.JPG)
 
 
 

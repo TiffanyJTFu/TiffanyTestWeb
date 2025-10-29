@@ -8,49 +8,49 @@ redirect_from:
 ---
 ## Research, Innovation, and AI Chatbot Projects
 
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/MentalHealthAIChatbotProject" target='_blank'><i>**1. Mental Health AI Chatbot Project 2025**</i></a>
+<a href="https://www.tiffu.ca/teaching/MentalHealthAIChatbotProject" target='_blank'><i>**1. Mental Health AI Chatbot Project 2025**</i></a>
 <br>**Project Topic:** Mental Health AI Chatbot Project
 <br>**Research Mentor**: **Prof. Ganesh Mani (Carnegie Mellon University)**
 * This project investigates how AI chatbots can support teens facing mental health challenges when traditional care is inaccessible. Guided by Dr. Ganesh Mani (Carnegie Mellon), it evaluates various AI systems using a structured checklist and simulated teen scenarios to measure empathy, safety, and effectiveness. The goal is to identify the most supportive AI models and eventually develop a prototype chatbot that offers accessible, stigma-free mental health support for adolescents.<br>
 
-![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/ai1.png)
+![SocialScience01](https://www.tiffu.ca/images/ai1.png)
 
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/InnovationProject" target='_blank'><i>**2. ICELERT – Innovation Prototype Project | Shad York 2025**</i></a>
+<br><a href="https://www.tiffu.ca/teaching/InnovationProject" target='_blank'><i>**2. ICELERT – Innovation Prototype Project | Shad York 2025**</i></a>
 <br>**Project: ICELERT – Innovation Prototype Project** 
 * Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
 * Participated in the design process, business planning, and innovation pitch sessions.
 
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan
-</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/DE 60s VID.mp4" target="_blank" rel="noopener noreferrer">Watch ICELERT Pitch</a>&nbsp;
+<a href="https://www.tiffu.ca/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan
+</a> | <a href="https://www.tiffu.ca/files/DE 60s VID.mp4" target="_blank" rel="noopener noreferrer">Watch ICELERT Pitch</a>&nbsp;
 <br>
 
-![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shadproject1.png)
+![shad5](https://www.tiffu.ca/images/shadproject1.png)
 
-![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad5.jpg)
+![shad5](https://www.tiffu.ca/images/shad5.jpg)
 
-![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/shad3.jpeg)
+![shad5](https://www.tiffu.ca/images/shad3.jpeg)
 
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject" target='_blank'><i>**3. Social Science Research Project 2024**</i></a>
+<a href="https://www.tiffu.ca/teaching/SocialScienceResearchProject" target='_blank'><i>**3. Social Science Research Project 2024**</i></a>
 <br>**Project Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
 <br>**Research Mentor**: **Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)
 * Conducted literature review, assisted in survey design, and supported data collection and analysis.<br>
 
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/AMH_PS_0608.pdf" target="_blank" rel="noopener noreferrer">Download Report</a>&nbsp;
+<a href="https://www.tiffu.ca/files/AMH_PS_0608.pdf" target="_blank" rel="noopener noreferrer">Download Report</a>&nbsp;
 <br>
 
-![SocialScience11](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject11.JPG)
-![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialscienceproject1.jpg)
+![SocialScience11](https://www.tiffu.ca/images/socialscienceproject11.JPG)
+![SocialScience01](https://www.tiffu.ca/images/socialscienceproject1.jpg)
 
-<br><a href="https://tiffanyjtfu.github.io/TiffanyFu/teaching/SocialScienceResearchProject-1" target='_blank'><i>**4. Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024**</i></a>
+<br><a href="https://www.tiffu.ca/teaching/SocialScienceResearchProject-1" target='_blank'><i>**4. Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024**</i></a>
 <br>**Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
 * Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
 * Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
 
-<a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
-</a> | <a href="https://tiffanyjtfu.github.io/TiffanyFu/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
+<a href="https://www.tiffu.ca/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
+</a> | <a href="https://www.tiffu.ca/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
 <br>
 
-![SocialScience01](https://tiffanyjtfu.github.io/TiffanyFu/images/socialsciencebrown.png)
+![SocialScience01](https://www.tiffu.ca/images/socialsciencebrown.png)
 
 Hi, I’m Tiffany — a dynamic and creative student with a **deep passion** for **cultural expression, community engagement, and social impact**. I’ve trained in **Ballet**, **Classical Chinese Dance**, and **Modern Dance** for **over 13 years**, and I’m currently pursuing certification through the **Arts Unionville Dance Program** at **Unionville High School in Ontario**. I enjoy sharing my cultural heritage through performance, blending tradition with storytelling, and regularly appear at **multicultural festivals** and **community events**.
 
@@ -76,7 +76,7 @@ I am **deeply passionate about exploring the intersection of artificial intellig
 
 My academic interests span **political science, psychology, economics, and law**, reflecting a long-term goal of understanding how human behavior and governance intersect to create meaningful and lasting societal change.
 
-![shad5](https://tiffanyjtfu.github.io/TiffanyFu/images/tiffanyprofile1.JPG)
+![shad5](https://www.tiffu.ca/images/tiffanyprofile1.JPG)
 
 
 
