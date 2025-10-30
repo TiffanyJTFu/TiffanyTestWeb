@@ -19,7 +19,7 @@ ACHIEVEMENTS AND ACTIVITIES
 ======
 * **Citizenship Subject Award 2025**
   * Unionville High School Citizenship Subject Award -Grade 11 Understanding Canada Law Award
-* **AU Dance Program 2021 - Present**
+* **AU Dance Program 2022 - Present**
   * Performed a variety of dance styles (contemporary, Hiphop, Lyrical, Ballet, etc.) with clean technique, musicality, and precision.
   * Performed in a bunch of school + studio shows, kept energy high from warm-up to curtain call. (For AU dance: Dance Highlights, Alchemy, December shows)
   * Choreographed and set original dance pieces for assignments and shows. 
