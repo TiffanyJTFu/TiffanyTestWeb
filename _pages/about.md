@@ -39,7 +39,11 @@ redirect_from:
 <a href="https://www.tiffu.ca/teaching/SocialScienceResearchProject" target='_blank'><i>**3. Social Science Research Project 2024**</i></a>
 <br>**Project Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
 <br>**Research Mentor**: **Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)
-* Conducted literature review, assisted in survey design, and supported data collection and analysis.<br>
+* Studied how **parenting in immigrant families** impacts adolescents’ mental health and stress.
+* Conducted **150+ teen–parent interviews** across the GTA with cultural sensitivity.
+* Built a **Python workflow** for **data cleaning, analysis, and visualization**.
+* Created **practical recommendations** for schools and families to support adolescent well-being.
+<br>
 
 <a href="https://www.tiffu.ca/files/AMH_PS_0608.pdf" target="_blank" rel="noopener noreferrer">Download Report</a>&nbsp;
 <br>
