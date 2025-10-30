@@ -57,13 +57,13 @@ ACHIEVEMENTS AND ACTIVITIES
    * Coordinated outreach efforts to expand the organization’s presence in schools and communities
    * Led recruitment initiatives to increase membership and volunteer participation
    * Contributed to strategy meetings to improve outreach materials, event promotion, and chapter engagement
-* **Model United Nations (Model UN) Club 2024 -Present**
+* **Model United Nations (Model UN) Club 2024 - 2025**
   * Participate to Toronto MUN (Model United Nations) competition 03/2025
   * Participated in mock UN simulations to develop diplomacy, public speaking, and negotiation skills.
   * Represented various countries in debates on global issues, following formal UN procedures.
   * Researched international policies and collaborated with peers to draft resolutions and deliver speeches
   * Engaged in regular club meetings, workshops, and internal conferences to strengthen leadership and global awareness
-* **Mock Trial Club 2024 -Present**
+* **Mock Trial Club 2024 - 2025**
   * Participated in simulated courtroom trials to develop skills in public speaking, critical thinking, and legal reasoning.
   * Collaborated with team members to prepare case materials, construct arguments, and role-play as attorneys and witnesses.
   * Engaged in legal discussions and competitive practice sessions to improve courtroom etiquette and debate strategies.
@@ -117,8 +117,7 @@ Helped prepare and sell baked goods at school fundraisers to support charities.
   * Solo - Diamond Rank, 2nd Place Overall Award
   * Judge's Choice Award
 * **Royal Academy of Dance Certification**
-  * Intermediate
-  * Intermediate Foundations
+  * RAD Level 3 Certificate in Ballet (Intermediate Vocational Level)
 * **Beijing Dance Academy - Chinese Dance Certification**
   * Level 6
 * **Olympian Swimming Certification**
