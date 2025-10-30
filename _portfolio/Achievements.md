@@ -4,7 +4,7 @@ excerpt: "Consistently demonstrated academic strength, creativity, and leadershi
 collection: portfolio
 ---
 * **Mental Health AI Chatbot Project 2025 - Present**
- <br><i>Research Mentor: **Prof. Ganesh Mani, Carnegie Mellon University**</i>
+ <br><i>**Research Mentor**: **Prof. Ganesh Mani, Carnegie Mellon University**</i>
   * Designing and testing an **AI-powered chatbot** to provide **accessible mental health support for adolescents**, addressing barriers such as cultural stigma, social pressures, and limited access to professional care.
   * Developed a **clinician-inspired evaluation rubric**, engineered **synthetic teen personas**, and analyzed AI performance to identify strengths, limitations, and best practices.
   * Working toward creating a **crisis-aware AI prototype** to ethically complement clinical mental health support, emphasizing accessibility, safety, and inclusivity. 
@@ -24,7 +24,7 @@ collection: portfolio
   * Researched and contacted potential sponsors, developed sponsorship packages, and helped secure funding and in-kind support 
   * Collaborated with cross-functional team members to ensure smooth event execution and community impact. 
 * **Shad York 2025**
-  * Participated in the Shad Canada enrichment program focused on STEAM, entrepreneurship, and leadership
+  * Participated in the **Shad Canada enrichment program** focused on **STEAM, entrepreneurship**, and **leadership**
   * Engaged with professors across disciplines (engineering, business, design, data science) through daily lectures, labs, and Q&As.
   * Learned new topics and tools—design thinking, Coding, Biological dissection, environmental science, and pitch communication.
   * Collaborated with other fellow shad york members to complete workshops, case studies, and assignments under tight timelines.
