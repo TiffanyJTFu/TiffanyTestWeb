@@ -9,7 +9,7 @@ redirect_from:
 ## Research, Innovation, and AI Chatbot Projects
 
 <a href="https://www.tiffu.ca/teaching/MentalHealthAIChatbotProject" target='_blank'><i>**1. Mental Health AI Chatbot Project 2025**</i></a>
-<br>**Project Topic: Mental Health AI Chatbot Project**
+<br>**Project Topic: <i>Mental Health AI Chatbot Project</i>**
 <br>**Research Mentor**: **Prof. Ganesh Mani (Carnegie Mellon University)**
 * Exploring how **AI chatbots** can **support adolescent mental health** where access to care is limited.
 * Using **synthetic teen personas** and **standardized scenarios** to safely test **AI responses**.
