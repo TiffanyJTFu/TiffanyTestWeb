@@ -9,7 +9,7 @@ redirect_from:
 ## Research, Innovation, and AI Chatbot Projects
 
 <a href="https://www.tiffu.ca/teaching/MentalHealthAIChatbotProject" target='_blank'><i>**1. Mental Health AI Chatbot Project 2025**</i></a>
-<br>**Project Topic:** Mental Health AI Chatbot Project
+<br>**Project Topic: Mental Health AI Chatbot Project**
 <br>**Research Mentor**: **Prof. Ganesh Mani (Carnegie Mellon University)**
 * Exploring how **AI chatbots** can **support adolescent mental health** where access to care is limited.
 * Using **synthetic teen personas** and **standardized scenarios** to safely test **AI responses**.
@@ -36,8 +36,8 @@ redirect_from:
 
 ![shad5](https://www.tiffu.ca/images/shad3.jpeg)
 
-<a href="https://www.tiffu.ca/teaching/SocialScienceResearchProject" target='_blank'><i>**3. Social Science Research Project 2024**</i></a>
-<br>**Project Topic:** Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health
+<br><a href="https://www.tiffu.ca/teaching/SocialScienceResearchProject" target='_blank'><i>**3. Social Science Research Project 2024**</i></a>
+<br>**Project Topic: Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health**
 <br>**Research Mentor**: **Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)
 * Studied how **parenting in immigrant families** impacts adolescents’ mental health and stress.
 * Conducted **150+ teen–parent interviews** across the GTA with cultural sensitivity.
@@ -51,8 +51,8 @@ redirect_from:
 ![SocialScience11](https://www.tiffu.ca/images/socialscienceproject11.JPG)
 ![SocialScience01](https://www.tiffu.ca/images/socialscienceproject1.jpg)
 
-<br><a href="https://www.tiffu.ca/teaching/CommunitySocialIssueProject" target='_blank'><i>**4. Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024**</i></a>
-<br>**Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
+<br><a href="https://www.tiffu.ca/teaching/CommunitySocialIssueProject" target='_blank'><i>**4. Brown University Pre-College Leadership Program - Social Change and Leadership - Community Social Issue Project 2024**</i></a>
+<br>**Project Topic: The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity**
 * Tackled **anti-Asian bias** by creating actionable, student-led cultural learning initiatives.
 * Developed a **semester plan** with workshops, mini-lessons, and storytelling circles for cross-cultural engagement.
 * Built a **toolkit and implementation guide** with lesson outlines, outreach scripts, and timelines for easy adoption.
