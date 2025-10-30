@@ -10,7 +10,7 @@ redirect_from:
 
 <a href="https://www.tiffu.ca/teaching/MentalHealthAIChatbotProject" target='_blank'><i>**1. Mental Health AI Chatbot Project 2025**</i></a>
 <br>**Project Topic: <i>Mental Health AI Chatbot Project</i>**
-<br>**Research Mentor**: **Prof. Ganesh Mani (Carnegie Mellon University)**
+<br>**Research Mentor: <i>Prof. Ganesh Mani (Carnegie Mellon University)</i>**
 * Exploring how **AI chatbots** can **support adolescent mental health** where access to care is limited.
 * Using **synthetic teen personas** and **standardized scenarios** to safely test **AI responses**.
 * **Evaluating chatbots** with a **clinician-inspired rubric focusing** on **validation, guidance, and crisis-awareness.**
@@ -20,7 +20,7 @@ redirect_from:
 ![SocialScience01](https://www.tiffu.ca/images/ai1.png)
 
 <br><a href="https://www.tiffu.ca/teaching/ICELERTProject" target='_blank'><i>**2. ICELERT – Innovation Prototype Project | Shad York 2025**</i></a>
-<br>**Project: ICELERT – Innovation Prototype Project** 
+<br>**Project: <i>ICELERT – Innovation Prototype Project</i>** 
 * Developed a **car-mounted thermal sensor + app** to warn drivers about black ice in real time.
 * Conducted **market research** with 100+ commuters to shape device features and pricing.
 * Built **hardware and app prototypes** with expert guidance and planned AI-based testing.
@@ -37,8 +37,8 @@ redirect_from:
 ![shad5](https://www.tiffu.ca/images/shad3.jpeg)
 
 <br><a href="https://www.tiffu.ca/teaching/SocialScienceResearchProject" target='_blank'><i>**3. Social Science Research Project 2024**</i></a>
-<br>**Project Topic: Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health**
-<br>**Research Mentor**: **Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)
+<br>**Project Topic: <i>Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health</i>**
+<br>**Research Mentor: <i>Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)</i>
 * Studied how **parenting in immigrant families** impacts adolescents’ mental health and stress.
 * Conducted **150+ teen–parent interviews** across the GTA with cultural sensitivity.
 * Built a **Python workflow** for **data cleaning, analysis, and visualization**.
@@ -52,7 +52,7 @@ redirect_from:
 ![SocialScience01](https://www.tiffu.ca/images/socialscienceproject1.jpg)
 
 <br><a href="https://www.tiffu.ca/teaching/CommunitySocialIssueProject" target='_blank'><i>**4. Brown University Pre-College Leadership Program - Social Change and Leadership - Community Social Issue Project 2024**</i></a>
-<br>**Project Topic: The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity**
+<br>**Project Topic: <i>The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity**</i>
 * Tackled **anti-Asian bias** by creating actionable, student-led cultural learning initiatives.
 * Developed a **semester plan** with workshops, mini-lessons, and storytelling circles for cross-cultural engagement.
 * Built a **toolkit and implementation guide** with lesson outlines, outreach scripts, and timelines for easy adoption.
