@@ -15,6 +15,6 @@ Beyond the arts, I am actively involved in **Model United Nations, Mock Trial Cl
 
 I am also an active member of my school’s **Dessert Club**, where I am the most experienced baker in weekly sessions, learning foundational and Asian dessert-specific techniques. I **organize bake sales**, selling nearly 100 items to **support school fundraisers and charity causes**.
 
-My **academic interests** span **political science**, **psychology**, **economics**, and **law**, reflecting my passion for understanding **societal challenges** and making a positive impact through **informed leadership**, **civic engagement**, and **community service**. I continue to pursue research opportunities, including my ongoing **Mental Health AI Chatbot Project** under **Prof. Ganesh Mani (Carnegie Mellon University)**, exploring accessible AI-based support for adolescent mental health.
+My **academic interests** span **political science**, **psychology**, **economics**, and **law**, reflecting my passion for understanding **societal challenges** and making a positive impact through **informed leadership**, **civic engagement**, and **community service**. I continue to pursue **research opportunities**, including my ongoing **Mental Health AI Chatbot Project** under **Prof. Ganesh Mani (Carnegie Mellon University)**, exploring accessible **AI-based support** for adolescent mental health.
 
 ![mun](https://www.tiffu.ca/images/mun.jpg)
