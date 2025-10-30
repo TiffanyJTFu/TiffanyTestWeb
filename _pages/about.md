@@ -66,7 +66,7 @@ The student **attended the Brown University Pre-College Program in Summer 2024**
 
 **In Summer 2025**, I was selected for **Shad York**, a **national STEAM and leadership program**, where I **co-developed ICELERT**, a prototype that detects icy road conditions to prevent accidents. I also played a key role in organizing and hosting Shad York’s Open Day Celebration and Evening Variety Show as one of the Masters of Ceremonies, demonstrating leadership, organization, and audience engagement skills.
 
-Currently, I am working on the **Mental Health AI Chatbot Project** under **Prof. Ganesh Mani (Carnegie Mellon University)**. This project explores whether accessible AI chatbots can credibly support adolescents facing mental health challenges due to social, cultural, or financial barriers. I am contributing to designing, testing, and evaluating AI solutions to provide empathetic and accessible mental health support for youth.
+**Currently**, I am working on the **Mental Health AI Chatbot Project** under **Prof. Ganesh Mani (Carnegie Mellon University)**. This project explores whether accessible AI chatbots can credibly support adolescents facing mental health challenges due to social, cultural, or financial barriers. I am contributing to designing, testing, and evaluating AI solutions to provide empathetic and accessible mental health support for youth.
 
 My academic interests span **political science, psychology, economics, and law**, with a long-term goal of understanding how human behavior and governance intersect to drive meaningful societal change. Through dance, research, and leadership, I aim to **create impact, foster inclusion, and contribute to communities in tangible ways**.
 
