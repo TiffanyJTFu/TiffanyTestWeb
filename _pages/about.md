@@ -15,7 +15,7 @@ redirect_from:
 
 ![SocialScience01](https://www.tiffu.ca/images/ai1.png)
 
-<br><a href="https://www.tiffu.ca/teaching/InnovationProject" target='_blank'><i>**2. ICELERT – Innovation Prototype Project | Shad York 2025**</i></a>
+<br><a href="https://www.tiffu.ca/teaching/ICELERTProject" target='_blank'><i>**2. ICELERT – Innovation Prototype Project | Shad York 2025**</i></a>
 <br>**Project: ICELERT – Innovation Prototype Project** 
 * Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
 * Participated in the design process, business planning, and innovation pitch sessions.
@@ -41,7 +41,7 @@ redirect_from:
 ![SocialScience11](https://www.tiffu.ca/images/socialscienceproject11.JPG)
 ![SocialScience01](https://www.tiffu.ca/images/socialscienceproject1.jpg)
 
-<br><a href="https://www.tiffu.ca/teaching/SocialScienceResearchProject-1" target='_blank'><i>**4. Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024**</i></a>
+<br><a href="https://www.tiffu.ca/teaching/CommunitySocialIssueProject" target='_blank'><i>**4. Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024**</i></a>
 <br>**Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
 * Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
 * Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
