@@ -68,7 +68,7 @@ The student **attended the Brown University Pre-College Program in Summer 2024**
 
 **Currently**, I am working on the **Mental Health AI Chatbot Project** under **Prof. Ganesh Mani (Carnegie Mellon University)**. This project explores whether accessible AI chatbots can credibly support adolescents facing mental health challenges due to social, cultural, or financial barriers. I am contributing to designing, testing, and evaluating AI solutions to provide empathetic and accessible mental health support for youth.
 
-My academic interests span **political science, psychology, economics, and law**, with a long-term goal of understanding how human behavior and governance intersect to drive meaningful societal change. Through dance, research, and leadership, I aim to **create impact, foster inclusion, and contribute to communities in tangible ways**.
+My **academic interests** span **political science, psychology, economics, and law**, with a long-term goal of understanding how human behavior and governance intersect to drive meaningful societal change. Through dance, research, and leadership, I aim to **create impact, foster inclusion, and contribute to communities in tangible ways**.
 
 ![shad5](https://www.tiffu.ca/images/tiffanyprofile1.JPG)
 
