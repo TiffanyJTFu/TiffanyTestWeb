@@ -16,7 +16,7 @@ collection: portfolio
   * Collaborated with team members to prepare case materials, construct arguments, and role-play as attorneys and witnesses
   * Engaged in legal discussions and competitive practice sessions to improve courtroom etiquette and debate strategies.
   * Gained foundational knowledge of courtroom procedures, legal terminology, and case anal
-* **Dessert Club 2024 -Precent**
+* **Dessert Club 2024 - Precent**
   *Participated in weekly baking sessions and school events to promote community involvement through baking. 
   * Learned a range of Asian desserts spanning multiple regions and traditions (e.g., mooncakes, mochi, Matcha cookies, Pineapple buns, Mango pancakes, etc.)
   * Built key baking skills: glutinous-rice doughs, steamed cakes, custards, agar-agar gels, yeasted milk bread. 
