@@ -19,14 +19,14 @@ ACHIEVEMENTS AND ACTIVITIES
 ======
 * **Citizenship Subject Award 2025**
   * Unionville High School Citizenship Subject Award -Grade 11 Understanding Canada Law Award
-* **AU Dance Program 2021-Present**
+* **AU Dance Program 2021 - Present**
   * Performed a variety of dance styles (contemporary, Hiphop, Lyrical, Ballet, etc.) with clean technique, musicality, and precision.
   * Performed in a bunch of school + studio shows, kept energy high from warm-up to curtain call. (For AU dance: Dance Highlights, Alchemy, December shows)
   * Choreographed and set original dance pieces for assignments and shows. 
   * Led warm-ups and cooldown lessons; coached counts and cues to elevate cast consistency.
   * Collaborated with tech/costume to align lighting and design with choreographic themes.
   * Strengthened and learned new core dance skills: kinaesthetic awareness, musicality, partnering skills, stamina, and creative expressive intention.
-* **Pledge for change NGO - Ignite Fair organization - Sponsorship Coordinator 2024-Present**
+* **Pledge for change NGO - Ignite Fair organization - Sponsorship Coordinator 2024 - Present**
   * Ignite Fair is a student-led non-profit organization that empowers youth by promoting volunteering opportunities across the GTA, leadership, and innovation through events and community outreach.  
   * Served as Sponsorship Coordinator for the “Ignite the Stage” event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement 
   * Actively participated in planning and execution of the event, contributing to sponsor outreach, event logistics, and day-of coordination
@@ -68,7 +68,7 @@ ACHIEVEMENTS AND ACTIVITIES
   * Collaborated with team members to prepare case materials, construct arguments, and role-play as attorneys and witnesses.
   * Engaged in legal discussions and competitive practice sessions to improve courtroom etiquette and debate strategies.
   * Gained foundational knowledge of courtroom procedures, legal terminology, and case analysis skills. 
-* **Dessert Club 2024 -Precent**
+* **Dessert Club 2024 - Precent**
   *Participated in weekly baking sessions and school events to promote community involvement through baking. 
   * Learned a range of Asian desserts spanning multiple regions and traditions (e.g., mooncakes, mochi, Matcha cookies, Pineapple buns, Mango pancakes, etc.)
   * Built key baking skills: glutinous-rice doughs, steamed cakes, custards, agar-agar gels, yeasted milk bread. 
