@@ -21,8 +21,10 @@ redirect_from:
 
 <br><a href="https://www.tiffu.ca/teaching/ICELERTProject" target='_blank'><i>**2. ICELERT – Innovation Prototype Project | Shad York 2025**</i></a>
 <br>**Project: ICELERT – Innovation Prototype Project** 
-* Collaborated with a team to develop a working prototype aimed at improving road safety through ice hazard detection.
-* Participated in the design process, business planning, and innovation pitch sessions.
+* Developed a **car-mounted thermal sensor + app** to warn drivers about black ice in real time.
+* Conducted **market research** with 100+ commuters to shape device features and pricing.
+* Built **hardware and app prototypes** with expert guidance and planned AI-based testing.
+* Created a **business plan and pitch**, presenting to industry professionals and integrating feedback.
 
 <a href="https://www.tiffu.ca/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan
 </a> | <a href="https://www.tiffu.ca/files/DE 60s VID.mp4" target="_blank" rel="noopener noreferrer">Watch ICELERT Pitch</a>&nbsp;
