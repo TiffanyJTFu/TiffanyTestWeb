@@ -38,7 +38,7 @@ redirect_from:
 
 <br><a href="https://www.tiffu.ca/teaching/SocialScienceResearchProject" target='_blank'><i>**3. Social Science Research Project 2024**</i></a>
 <br>**Project Topic: <i>Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health</i>**
-<br>**Research Mentor: <i>Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)</i>
+<br>**Research Mentor**: <i>**Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)</i>
 * Studied how **parenting in immigrant families** impacts adolescents’ mental health and stress.
 * Conducted **150+ teen–parent interviews** across the GTA with cultural sensitivity.
 * Built a **Python workflow** for **data cleaning, analysis, and visualization**.
@@ -52,7 +52,7 @@ redirect_from:
 ![SocialScience01](https://www.tiffu.ca/images/socialscienceproject1.jpg)
 
 <br><a href="https://www.tiffu.ca/teaching/CommunitySocialIssueProject" target='_blank'><i>**4. Brown University Pre-College Leadership Program - Social Change and Leadership - Community Social Issue Project 2024**</i></a>
-<br>**Project Topic: <i>The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity**</i>
+<br>**Project Topic**: <i>**The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity**</i>
 * Tackled **anti-Asian bias** by creating actionable, student-led cultural learning initiatives.
 * Developed a **semester plan** with workshops, mini-lessons, and storytelling circles for cross-cultural engagement.
 * Built a **toolkit and implementation guide** with lesson outlines, outreach scripts, and timelines for easy adoption.
