@@ -57,7 +57,7 @@ collection: portfolio
   * Researched international policies and collaborated with other delegates to draft resolutions
   * Practiced formal debate, public speaking, negotiation, and diplomacy in a competitive academic setting
   * Strengthened skills in critical thinking, teamwork, and global awareness
-* **Collaborated on the LT Social Science Research Project - Cross-Cultural Education and Adolescent Well-Being (05/2024 - 11/2024)**<br>
+* **Collaborated on the LT Social Science Research Project - Cross-cultural Education Methods and Adolescents’ Physical and Mental Health (05/2024 - 11/2024)**<br>
 <i>**Research Mentor**: **Dr. Tao Wang, University of Toronto**</i> 
   * Certificate of Completion
   * Learning Dedication Award
