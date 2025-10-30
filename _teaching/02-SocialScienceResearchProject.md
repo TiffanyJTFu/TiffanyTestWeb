@@ -6,8 +6,8 @@ permalink: /teaching/SocialScienceResearchProject
 paperurl3: 'https://www.tiffu.ca/files/AMH_PS_0608.pdf'
 ---
 ![SocialScience01](https://www.tiffu.ca/images/socialscienceproject1.jpg)
-<br>**Project Topic:** Cross-cultural Education Methods and Adolescents' Physical and Mental Health
-<br>**Research Mentor**: **Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)
+<br>**Project Topic**: <i>**Cross-cultural Education Methods and Adolescents' Physical and Mental Health**</i>
+<br>**Research Mentor**: <i>**Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)</i>
 
 <a href="https://www.tiffu.ca/files/AMH_PS_0608.pdf" target="_blank" rel="noopener noreferrer">Download Report</a>&nbsp;
 <br><br>**Project Background**
