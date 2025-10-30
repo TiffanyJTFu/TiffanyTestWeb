@@ -8,7 +8,7 @@ paperurl1: 'https://www.tiffu.ca/files/Step 8B_ Action plan Final Report - Tiffa
 ---
 
 ![SocialScience01](https://www.tiffu.ca/images/socialsciencebrown.png)
-**Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
+**Project Topic**: <i>**The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity**</i>
 
 <a href="https://www.tiffu.ca/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
 </a> | <a href="https://www.tiffu.ca/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
