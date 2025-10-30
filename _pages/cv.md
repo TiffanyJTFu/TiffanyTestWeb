@@ -17,6 +17,11 @@ EDUCATION
 
 ACHIEVEMENTS AND ACTIVITIES
 ======
+* **Mental Health AI Chatbot Project 2025 - Present**
+ <br><i>**Research Mentor**: **Prof. Ganesh Mani, Carnegie Mellon University**</i>
+  * Designing and testing an **AI-powered chatbot** to provide **accessible mental health support for adolescents**, addressing barriers such as cultural stigma, social pressures, and limited access to professional care.
+  * Developed a **clinician-inspired evaluation rubric**, engineered **synthetic teen personas**, and analyzed AI performance to identify strengths, limitations, and best practices.
+  * Working toward creating a **crisis-aware AI prototype** to ethically complement clinical mental health support, emphasizing accessibility, safety, and inclusivity. 
 * **Citizenship Subject Award 2025**
   * Unionville High School Citizenship Subject Award -Grade 11 Understanding Canada Law Award
 * **AU Dance Program 2022 - Present**
