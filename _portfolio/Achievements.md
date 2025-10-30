@@ -3,9 +3,14 @@ title: "Achievements"
 excerpt: "Consistently demonstrated academic strength, creativity, and leadership through research projects, innovation challenges, and active involvement in school and community programs.<br/><img src='https://www.tiffu.ca/images/shad3.jpeg'><img src='https://www.tiffu.ca/images/shadproject1.png'>"
 collection: portfolio
 ---
+* **Mental Health AI Chatbot Project 2025 - Present**
+ <i>Research Mentor: **Prof. Ganesh Mani, Carnegie Mellon University**</i>
+  * Designing and testing an **AI-powered chatbot** to provide **accessible mental health support for adolescents**, addressing barriers such as cultural stigma, social pressures, and limited access to professional care.
+  * Developed a **clinician-inspired evaluation rubric**, engineered **synthetic teen personas**, and analyzed AI performance to identify strengths, limitations, and best practices.
+  * Working toward creating a **crisis-aware AI prototype** to ethically complement clinical mental health support, emphasizing accessibility, safety, and inclusivity. 
 * **Citizenship Subject Award 2025**
   * Unionville High School Citizenship Subject Award -Grade 11 Understanding Canada Law Award
-* **AU Dance Program 2021 - Present**
+* **AU Dance Program 2022 - Present**
   * Performed a variety of dance styles (contemporary, Hiphop, Lyrical, Ballet, etc.) with clean technique, musicality, and precision.
   * Performed in a bunch of school + studio shows, kept energy high from warm-up to curtain call. (For AU dance: Dance Highlights, Alchemy, December shows)
   * Choreographed and set original dance pieces for assignments and shows. 
