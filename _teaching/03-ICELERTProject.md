@@ -7,7 +7,7 @@ slidesurl2: 'https://www.tiffu.ca/files/DE 60s VID.mp4'
 paperurl2: 'https://www.tiffu.ca/files/ICELERT - Business Plan.pdf'
 ---
 ![shad5](https://www.tiffu.ca/images/shadproject1.png)
-<br>**Project: ICELERT – Innovation Prototype Project** 
+<br>**Project**: <i>**ICELERT – Innovation Prototype Project**</i>
 
 <a href="https://www.tiffu.ca/files/ICELERT - Business Plan.pdf" target="_blank" rel="noopener noreferrer">Download Business Plan
 </a> | <a href="https://www.tiffu.ca/files/DE 60s VID.mp4" target="_blank" rel="noopener noreferrer">Watch ICELERT Pitch</a>&nbsp;
