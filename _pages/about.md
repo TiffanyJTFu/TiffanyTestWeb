@@ -53,8 +53,9 @@ redirect_from:
 
 <br><a href="https://www.tiffu.ca/teaching/CommunitySocialIssueProject" target='_blank'><i>**4. Brown University Pre-college leadership program - Social change and leadership - community social issue project 2024**</i></a>
 <br>**Project Topic:** The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity
-* Completed under the mentorship of a Brown University professor as part of the Leadership and Social Change course.
-* Researched the effects of cultural disconnect among youth and proposed engagement-based solutions for community improvement.
+* Tackled **anti-Asian bias** by creating actionable, student-led cultural learning initiatives.
+* Developed a **semester plan** with workshops, mini-lessons, and storytelling circles for cross-cultural engagement.
+* Built a **toolkit and implementation guide** with lesson outlines, outreach scripts, and timelines for easy adoption.
 
 <a href="https://www.tiffu.ca/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
 </a> | <a href="https://www.tiffu.ca/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
