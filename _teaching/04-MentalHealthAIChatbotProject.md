@@ -20,8 +20,9 @@ With guidance from distinguished faculty professor **Dr. Ganesh Mani (Carnegie M
 
 After collecting my data, I will **create/analyze a presentation** (with **data graphs**) and **scientific report** of my research. This will include: my conclusions on my research, **ranked AI model performance**, and recommended **prompts and systems** for best usage. The project addresses **access and quality gaps** by identifying which **AI tools** most closely approximate **supportive first-line communication** for youth who cannot easily reach **clinicians**, advocating for more **accessibility** and **investments in the mental health** of youths—while clearly stating limits, emphasizing **crisis-referral pathways**, and positioning **AI** as a **complement, not a substitute**, for professional care. While I am currently working on the first phase of my research, I am hoping to move onto the 2nd phase of my research on the actual **data collection**, all while focusing on my goal of being able to **create an AI prototype chatbox** to eventually reach my goal of helping **youths and adolescents** in having more **accessible mental health** without them worrying about **societal interference** and pressure.
 
-**Project Details**
+---
 
+### Project Details
 * Analyzed previous **AI research methods** across qualitative, quantitative, and mixed-methods designs; mapped **strengths, biases, and threats to validity** in **LLM mental-health studies**
 * Designed a **mixed-methods study** (modeled on peer-reviewed therapist vs. LLM work) under guidance from **Prof. Ganesh Mani (Carnegie Mellon University)**
 * Phase I (**design/pilots completed**); Phase II (**full data collection/analysis in progress**), with conclusions forthcoming
