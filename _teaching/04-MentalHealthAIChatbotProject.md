@@ -9,7 +9,7 @@ permalink: /teaching/MentalHealthAIChatbotProject
 <br>**Research Mentor**: <i>**Prof. Ganesh Mani (Carnegie Mellon University)**</i>
 
 **Project Background**
-In such a challenging society where **mental health** related issues are at an all-time high, I watched how **stress** can turn from a feeling into a lifestyle. Among **adolescents**, **anxiety burnout** is so common or rather inevitable—yet access to real **mental-health care** was hard. Whether it’s **cost**, **stigma**, **lack of accessibility** or other social factors, I firmly believe that **mental health should be accessible** for everyone. Ever since the rise of **AI chatbots** and the use of **AI** in general and how powerful it can be at imitating humans, I began with a focused question: Can accessible **AI chatbots** credibly support the **mental health** and **strain** for teens who face **cultural stigma**, **social barriers**, or **financial limits** to traditional care?
+<br>In such a challenging society where **mental health** related issues are at an all-time high, I watched how **stress** can turn from a feeling into a lifestyle. Among **adolescents**, **anxiety burnout** is so common or rather inevitable—yet access to real **mental-health care** was hard. Whether it’s **cost**, **stigma**, **lack of accessibility** or other social factors, I firmly believe that **mental health should be accessible** for everyone. Ever since the rise of **AI chatbots** and the use of **AI** in general and how powerful it can be at imitating humans, I began with a focused question: Can accessible **AI chatbots** credibly support the **mental health** and **strain** for teens who face **cultural stigma**, **social barriers**, or **financial limits** to traditional care?
 
 With guidance from distinguished faculty professor **Dr. Ganesh Mani (Carnegie Mellon)**, I reviewed and analyzed a recent **mixed-methods study** comparing **human therapists** with **large-language-model responses** to **therapeutic communication** and used it as a template. I then surveyed widely available **AI systems** and built a **four-step method**:
 
@@ -23,8 +23,8 @@ After collecting my data, I will **create/analyze a presentation** (with **data 
 **Project Details**
 
 * Analyzed previous **AI research methods** across qualitative, quantitative, and mixed-methods designs; mapped **strengths, biases, and threats to validity** in **LLM mental-health studies**
-* Designed a **mixed-methods study** (modeled on peer-reviewed therapist vs. LLM work) under guidance from **Prof. Ganesh Mani (CMU)**
-* Mentored by **Prof. Ganesh Mani (Carnegie Mellon)**; Phase I (**design/pilots completed**); Phase II (**full data collection/analysis in progress**), with conclusions forthcoming
+* Designed a **mixed-methods study** (modeled on peer-reviewed therapist vs. LLM work) under guidance from **Prof. Ganesh Mani (Carnegie Mellon University)**
+* Phase I (**design/pilots completed**); Phase II (**full data collection/analysis in progress**), with conclusions forthcoming
 * Built a **4-step evaluation method**: **clinician-inspired rubric** (**validation, open Qs, concrete steps, safety/referrals**) → **synthetic teen personas** → **standardized scenarios** → **rubric-based scoring**
 * **Created synthetic teen personas** reflecting common **stressors among adolescents** (**academics, family conflict, sleep, social pressure**) for standardized testing
   * Engineered **synthetic adolescent personas** to safely simulate **high-risk scenarios** without human subjects or identifiable data
