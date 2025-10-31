@@ -18,11 +18,9 @@ These pressures should not be borne by **individual families alone**—they are 
 To address this need, **Leading Tomorrow**, a **non-profit organization**, has launched a **social research project** titled “**Cross-cultural Education Methods and Adolescents’ Physical and Mental Health**.” The project aims to deepen understanding of how **parenting** and **education styles** within **immigrant families** affect **adolescents’ mental health** and **social adaptability**. By conducting this **research**, the project seeks to identify **key factors influencing youth development**, providing a **scientific basis** for more effective **support strategies** and **interventions** that can help **immigrant adolescents thrive**.
 
 **Research Focus**
-
 * To examine how **parenting styles** relate to **teen stress, mood, sleep**, and **help-seeking behaviors** in **immigrant families** across the **Greater Toronto Area (GTA)**.
 
 **Key Contributions**
-
 * Identified and researched a **community need**: **teen mental-health stressors** in **immigrant families** (**expectations, language/culture gaps, access to youth-friendly services**).
 * Collaborated with a **team of students** and framed a **research question** with **Dr. Tao Wang**.
 * Reviewed prior **studies**, analyzed **research constructs and methods**, and developed **ethics-aligned research procedures** (**assent/consent, confidentiality, data handling**).
@@ -35,7 +33,6 @@ To address this need, **Leading Tomorrow**, a **non-profit organization**, has l
 * Earned a **Learning Dedication Award** for **leadership, persistence**, and continued **growth** in **psychology, sociology**, and the **social sciences**.
 
 **Skills Developed**
-
 * **Literature review** and **research ethics**
 * **Qualitative interviewing** and **participant engagement**
 * **Python coding, data cleaning, visualization**, and **figure generation**
