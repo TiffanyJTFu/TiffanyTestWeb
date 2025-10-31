@@ -18,4 +18,5 @@ I am also an active member of my school’s **Dessert Club**, where I am the mos
 My **academic interests** span **political science**, **psychology**, **economics**, and **law**, reflecting my passion for understanding **societal challenges** and making a positive impact through **informed leadership**, **civic engagement**, and **community service**. I continue to pursue **research opportunities**, including my ongoing **Mental Health AI Chatbot Project** under **Prof. Ganesh Mani (Carnegie Mellon University)**, exploring accessible **AI-based support** for adolescent mental health.
 
 ![mun](https://www.tiffu.ca/images/mun.jpg)
+
 ![mun](https://www.tiffu.ca/images/uhs.jpg)
