@@ -25,7 +25,7 @@ After collecting my data, I will **create/analyze a presentation** (with **data 
 ### Project Details
 * Analyzed previous **AI research methods** across qualitative, quantitative, and mixed-methods designs; mapped **strengths, biases, and threats to validity** in **LLM mental-health studies**
 * Designed a **mixed-methods study** (modeled on peer-reviewed therapist vs. LLM work) under guidance from **Prof. Ganesh Mani (Carnegie Mellon University)**
-* Phase I (**design/pilots completed**); Phase II (**full data collection/analysis in progress**), with conclusions forthcoming
+* Phase I (**design/pilots) completed**; Phase II (**full data collection/analysis) in progress**, with conclusions forthcoming
 * Built a **4-step evaluation method**: **clinician-inspired rubric** (**validation, open Qs, concrete steps, safety/referrals**) → **synthetic teen personas** → **standardized scenarios** → **rubric-based scoring**
 * **Created synthetic teen personas** reflecting common **stressors among adolescents** (**academics, family conflict, sleep, social pressure**) for standardized testing
   * Engineered **synthetic adolescent personas** to safely simulate **high-risk scenarios** without human subjects or identifiable data
