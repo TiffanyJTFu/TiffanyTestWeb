@@ -1,5 +1,5 @@
 ---
-title: "Brown University Pre-college leadership program - Social Change and Leadership - Community Social Issue Project 2024"
+title: "Brown University Pre-College Leadership Institute — Social Change & Leadership - Community Social Issue Project 2024"
 collection: teaching
 type: ""
 permalink: /teaching/CommunitySocialIssueProject
