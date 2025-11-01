@@ -51,7 +51,7 @@ redirect_from:
 ![SocialScience11](https://www.tiffu.ca/images/socialscienceproject11.JPG)
 ![SocialScience01](https://www.tiffu.ca/images/socialscienceproject1.jpg)
 
-<br><a href="https://www.tiffu.ca/teaching/CommunitySocialIssueProject" target='_blank'><i>**4. Brown University Pre-College Leadership Program - Social Change and Leadership - Community Social Issue Project 2024**</i></a>
+<br><a href="https://www.tiffu.ca/teaching/CommunitySocialIssueProject" target='_blank'><i>**4. Brown University Pre-College Leadership Institute — Social Change & Leadership - Community Social Issue Project 2024**</i></a>
 <br>**Project Topic**: <i>**The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity**</i>
 * Tackled **anti-Asian bias** by creating actionable, student-led cultural learning initiatives.
 * Developed a **semester plan** with workshops, mini-lessons, and storytelling circles for cross-cultural engagement.
