@@ -73,9 +73,7 @@ location: "Toronto, Canada"
 
 
 ## Arts Unionville - Dance Performance Highlights
-**Don Quixote**
-<a href="https://youtu.be/TQqILM71ags" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
-<br>![Dance10](https://www.tiffu.ca/images/danceballet2.JPEG)
+
 
 
 
