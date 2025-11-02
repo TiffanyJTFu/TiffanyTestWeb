@@ -1,6 +1,6 @@
 ---
 title: "Achievements"
-excerpt: "Consistently demonstrated academic strength, creativity, and leadership through research projects, innovation challenges, and active involvement in school and community programs.<br/><img src='https://www.tiffu.ca/images/shad3.jpeg'><img src='https://www.tiffu.ca/images/shadproject1.png'>"
+excerpt: "Consistently demonstrated academic strength, creativity, and leadership through research projects, innovation challenges, and active involvement in school and community programs.<br/><img src='https://www.tiffu.ca/images/ai1.png'><img src='https://www.tiffu.ca/images/shadproject1.png'>"
 collection: portfolio
 ---
 * **Mental Health AI Chatbot Project 2025 - Present**
