@@ -73,8 +73,14 @@ location: "Toronto, Canada"
 
 
 ## Arts Unionville - Dance Performance Highlights
+**AU Dance + AU Music + AU Visual Arts Collaboration Piece**
+<a href="https://youtu.be/_3v05TpXpJ8" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<br>![Dance10](https://www.tiffu.ca/images/audance2.PNG)
 
 
+**Are you that somebody**
+<a href="https://youtu.be/-5U3fKKlsSs" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<br>![Dance10](https://www.tiffu.ca/images/audance1.jpg)
 
 
 
