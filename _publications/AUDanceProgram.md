@@ -16,4 +16,13 @@ Beyond school performances, I am passionate about **using my dance skills to con
 
 Through the AU - Dance Program, I have also **developed essential artistic and personal skills**, including kinaesthetic awareness, partnering techniques, stamina, discipline, and creative expression. The program has been a central part of my high school experience, nurturing not only my growth as a dancer but also my commitment to **sharing my skills and passion to make a positive impact in my community**.
 
+**AU Dance + AU Music + AU Visual Arts Collaboration Piece**
+<a href="https://youtu.be/_3v05TpXpJ8" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<br>![Dance10](https://www.tiffu.ca/images/audance3.PNG)
+
+
+**Are you that somebody**
+<a href="https://youtu.be/-5U3fKKlsSs" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
+<br>![Dance10](https://www.tiffu.ca/images/audance1.jpg)
+
 ![mun](https://www.tiffu.ca/images/schoolau1.jpg)
