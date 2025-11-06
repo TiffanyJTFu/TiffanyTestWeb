@@ -78,7 +78,7 @@ location: "Toronto, Canada"
 <br>![Dance10](https://www.tiffu.ca/images/audance3.PNG)
 
 
-**Are you that somebody**
+**Are You That Somebody**
 <a href="https://youtu.be/-5U3fKKlsSs" target="_blank" rel="noopener">▶️ Watch YouTube Video</a>
 <br>![Dance10](https://www.tiffu.ca/images/audance1.jpg)
 
