@@ -55,7 +55,7 @@ redirect_from:
 <br>**Project Topic**: <i>**The Misrepresentation of Chinese Culture: A Youth Perspective on Anti-Asian Racism and Cultural Identity**</i>
 * Tackled **anti-Asian bias** by creating actionable, student-led cultural learning initiatives.
 * Developed a **semester plan** with workshops, mini-lessons, and storytelling circles for cross-cultural engagement.
-* Built a **toolkit and implementation guide** with lesson outlines, outreach scripts, and timelines for easy adoption.
+* Building a **toolkit and implementation guide** with lesson outlines, outreach scripts, and timelines for easy adoption.
 
 <a href="https://www.tiffu.ca/files/Step 8B_ Action plan Final Report - Tiffany Fu.pdf" target="_blank" rel="noopener noreferrer">Download Action Plan Report
 </a> | <a href="https://www.tiffu.ca/files/Action plan Presentation.mp4" target="_blank" rel="noopener noreferrer">Presentation Video</a>&nbsp;
