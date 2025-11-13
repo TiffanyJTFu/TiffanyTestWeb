@@ -32,7 +32,7 @@ After collecting my data, I will **create/analyze a presentation** (with **data 
 
 * **Currently** **testing multiple AI systems (completed full data collection on ChatGPT, DeepSeek, and Gemini)** to evaluate comparative performance. The **data analysis phase is currently in progress**, synthesizing each system’s strengths and weaknesses into a **prioritized remediation roadmap**.
 
-* **Deliverables** will include a scientific report and presentation featuring:
+* **Deliverables** will include a **scientific report** and **presentation** featuring:
   * A ranked model leaderboard
   * A prompt best-practices playbook
   * Data visualizations and comparative graphs
