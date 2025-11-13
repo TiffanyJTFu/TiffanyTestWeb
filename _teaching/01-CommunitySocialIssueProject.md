@@ -21,7 +21,7 @@ It outlines a **semester** of **low-cost, high-engagement modules**—calligraph
 * Investigated **anti-Asian hate** as a case study and engaged with students and teachers to uncover systemic gaps—not only in anti-Asian bias but in broader **multicultural inclusion** issues such as misinformation, one-dimensional representation, and limited structured opportunities for cross-cultural connection.
 * **Building a plug-and-play toolkit and implementation guide** with lesson outlines, outreach scripts, reflection prompts, and timelines for easy adoption and adaptation across multiple cultures.
 * Developed a **launch-ready semester plan** featuring **hands-on workshops, micro language lessons, and reflection circles** to promote meaningful cross-cultural engagement and understanding.
-* Engineered materials that enable **any student team to run inclusive programming immediately**, with built-in flexibility for different cultural focuses (e.g., Asian traditions, foodways, and crafts such as calligraphy and knot-tying).
+* Engineering materials that enable **any student team to run inclusive programming immediately**, with built-in flexibility for different cultural focuses (e.g., Asian traditions, foodways, and crafts such as calligraphy and knot-tying).
 * Produced an **impact video** and authored an **implementation guide** (including budgets, roles, timelines, and simple risk checks) to support **sustainable, low-barrier rollout**.
 * Packaged and prepared for future deployment by me or other student organizations—**positioned to reduce bias and advance multicultural representation**; rollout **pending**.
 
