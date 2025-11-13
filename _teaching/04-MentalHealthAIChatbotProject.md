@@ -30,7 +30,7 @@ After collecting my data, I will **create/analyze a presentation** (with **data 
   * Designed **IRB-eligible, non-human-subjects personas** enabling **low-risk evaluation** of **AI support tools**
   * Built structured **synthetic user profiles** with scripted backstories and goals to control for variability in chatbot trials
 
-* **Currently** **testing multiple AI systems (completed full data collection on ChatGPT, DeepSeek, and Gemini) to evaluate comparative performance**. The **data analysis phase is currently in progress**, synthesizing each system’s strengths and weaknesses into a **prioritized remediation roadmap**.
+* **Currently** **testing multiple AI systems (completed full data collection on ChatGPT, DeepSeek, and Gemini)** to evaluate comparative performance. The **data analysis phase is currently in progress**, synthesizing each system’s strengths and weaknesses into a **prioritized remediation roadmap**.
 
 * **Deliverables** will include a scientific report and presentation featuring:
   * A ranked model leaderboard
