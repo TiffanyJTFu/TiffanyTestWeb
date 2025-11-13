@@ -29,9 +29,19 @@ After collecting my data, I will **create/analyze a presentation** (with **data 
   * Engineered **synthetic adolescent personas** to safely simulate **high-risk scenarios** without human subjects or identifiable data
   * Designed **IRB-eligible, non-human-subjects personas** enabling **low-risk evaluation** of **AI support tools**
   * Built structured **synthetic user profiles** with scripted backstories and goals to control for variability in chatbot trials
-* Currently testing multiple **AI systems**; will synthesize strengths/weaknesses into a prioritized **remediation roadmap**
-* Will **create + deliver scientific report of results + presentation** (with graphs): a **ranked model leaderboard**, **prompt best-practices playbook**, clear **data visualizations**, and **deployment guidelines** with embedded **crisis-escalation pathways**
-* Engineering a **crisis-aware, prototype, AI-powered chatbot** to (augment, not replace) clinical care mental health, which will utilize **safety guardrails** from study results
+
+* **Currently** **testing multiple AI systems (completed full data collection on ChatGPT, DeepSeek, and Gemini) to evaluate comparative performance**. The **data analysis phase is currently in progress**, synthesizing each system’s strengths and weaknesses into a **prioritized remediation roadmap**.
+
+* **Deliverables** will include a scientific report and presentation featuring:
+  * A ranked model leaderboard
+  * A prompt best-practices playbook
+  * Data visualizations and comparative graphs
+  * Deployment guidelines with embedded crisis-escalation pathways
+
+**Additionally**, engineering a **crisis-aware, prototype AI-powered chatbot** designed to augment (not replace) clinical mental-health care, incorporating **safety guardrails** derived from study findings.
+
+
+
 
 
 
