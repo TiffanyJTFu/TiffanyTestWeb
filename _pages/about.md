@@ -15,6 +15,7 @@ redirect_from:
 * Using **synthetic teen personas** and **standardized scenarios** to safely test **AI responses**.
 * **Evaluating chatbots** with a **clinician-inspired rubric focusing** on **validation, guidance, and crisis-awareness.**
 * Developing a **prototype AI chatbot** to **complement professional care** and **promote safe, inclusive support**.
+* **Currently**, **testing multiple AI systems (completed full data collection on ChatGPT, DeepSeek, and Gemini)** to evaluate comparative performance. The **data analysis phase is currently in progress**, synthesizing each system’s strengths and weaknesses into a **prioritized remediation roadmap**.
 <br>
 
 ![SocialScience01](https://www.tiffu.ca/images/ai1.png)
