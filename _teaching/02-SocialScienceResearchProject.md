@@ -24,7 +24,7 @@ To address this need, Leading Tomorrow, a non-profit organization, has launched 
 * Identified and researched a **community need**: **teen mental-health stressors** in immigrant families (expectations, language/culture gaps, access to youth-friendly services).
 * Collaborated with a team of students and framed a **research question** with **Dr. Tao Wang**.
 * Reviewed prior **studies**, analyzed **research constructs and methods**, and developed **ethics-aligned research procedures** (assent/consent, confidentiality, data handling).
-* Recruited, scheduled, and interviewed **344 teen–parent pairs** across the GTA using respectful, structured interviews.
+* **Interviewed 150+** Participants, **Collected 344 qualitative datasets** across the GTA with cultural sensitivity.
 * Led a **data-collection team** and standardized procedures to ensure quality and cultural sensitivity.
 * Collaborated with team members to build a **Python workflow** for **data cleaning, labeling, analysis**, and **figure generation**.
 * Compiled **datasets** and a **codebook**; contributed figures and summary sections to the team’s manuscript (under review in the *Journal of Minority and Immigrant Health*).
