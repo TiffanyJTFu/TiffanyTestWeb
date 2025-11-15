@@ -41,7 +41,7 @@ redirect_from:
 <br>**Project Topic: <i>Cross-Cultural Education Methods and Adolescents’ Physical and Mental Health</i>**
 <br>**Research Mentor**: <i>**Dr. Tao Wang** (**Assistant Professor** at the School of Information, **University of Toronto**)</i>
 * Studied how **parenting in immigrant families** impacts adolescents’ mental health and stress.
-* Conducted **150+ teen–parent interviews** across the GTA with cultural sensitivity.
+* Conducted **344 teen–parent interviews** across the GTA with cultural sensitivity.
 * Built a **Python workflow** for **data cleaning, analysis, and visualization**.
 * Created **practical recommendations** for schools and families to support adolescent well-being.
 <br>
