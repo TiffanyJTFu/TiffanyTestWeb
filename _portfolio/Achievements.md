@@ -17,7 +17,7 @@ collection: portfolio
   * Led warm-ups and cooldown lessons; coached counts and cues to elevate cast consistency.
   * Collaborated with tech/costume to align lighting and design with choreographic themes.
   * Strengthened and learned new core dance skills: kinaesthetic awareness, musicality, partnering skills, stamina, and creative expressive intention.
-* **Pledge for change NGO - Ignite Fair organization - Sponsorship Coordinator 2024 - Present**
+* **Pledge for change NGO - Ignite Fair organization - Sponsorship Coordinator 02/2025 - Present**
   * Ignite Fair is a student-led non-profit organization that empowers youth by promoting volunteering opportunities across the GTA, leadership, and innovation through events and community outreach.  
   * Served as Sponsorship Coordinator for the “Ignite the Stage” event at September 2025, a youth-led showcase aimed at inspiring creativity, public speaking, and student engagement 
   * Actively participated in planning and execution of the event, contributing to sponsor outreach, event logistics, and day-of coordination
